@@ -8,3 +8,6 @@ Sample lectures already submitted.
 
 ##Git & GithHub Training
 This is the famous and one of the best training course of devops.
+
+##Git Comparision
+Adding Git comparision lectures
